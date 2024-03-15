@@ -1,5 +1,5 @@
 # Candy Witch Adventure
-# based of Hansel and Gretal folklore
+# based on Hansel and Gretel folklore
 
 Welcome to Candy Witch Adventure, a text-based adventure game where you must navigate between rooms, collect magical items, and escape from the Candy Witch before she catches you!
 
