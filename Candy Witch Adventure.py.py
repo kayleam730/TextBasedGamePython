@@ -1,6 +1,3 @@
-# Kaylea Carpenter
-# IT 140 Project Two
-
 def display_instructions():
     print("Welcome to the Candy Witch Adventure! You must navigate between rooms using the directional commands North, South, East, and West. Use the command 'go' before each directional command when prompted and use 'grab' when picking up an item. Collect all the magical items to escape before the Candy Witch catches you. Good luck!")
 
